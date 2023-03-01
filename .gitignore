@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.env
+webgl-render-library.iml
+/node_modules/
+/compressjs.sh
+debugger/WebGLDeveloperTools
+.DS_Store
+REVISION
+/*.tgz
+.sass-cache
+/.nyc_output/
+/coverage/
+test/demo/css
+test/demo/js
+test/browser/*.js
+test/fixtures/templates/*
+test/fixtures/heads/*
+*-log.txt
+built/*
+S3.js
+test/demo/raw.html
+
+# Prevent all but default media files entering the repo
+.vscode/
