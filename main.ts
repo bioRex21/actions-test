@@ -4,3 +4,4 @@ function sayHi(to: string): void {
 
 sayHi('human');
 sayHi("computer");
+sayHi("dog");
